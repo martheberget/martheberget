@@ -1,14 +1,11 @@
-### Hello, I'm Marthe 👋
+<h1 align="center">Hey, I'm Marthe! 👋</h1>
 
-Frontend Developer.
+This GitHub contains various personal projects that I work on during my free time. Currently learning React and loving it ♡ 
 
-**Tech Stack:**
+**Skills/Tech Stack:**
 - Frontend: HTML, CSS, JavaScript (ES6)<br>
-- Backend: Java, C#, Python<br>
+- Backend: C#, Python<br>
 - Testing Tools: Playwright, Cypress, Selenium<br>
-
-**📚 Currently Learning:**
-- React
 
 <!--
 **martheberget/martheberget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
