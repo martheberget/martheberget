@@ -6,6 +6,7 @@ This GitHub contains various personal projects that I work on during my free tim
 - Frontend: HTML, CSS, JavaScript (ES6)<br>
 - Backend: C#, Python<br>
 - Testing Tools: Playwright, Cypress, Selenium<br>
+- Development Tools: Vite
 
 <!--
 **martheberget/martheberget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
